@@ -1,0 +1,1 @@
+This program is meant to teach students how to manipulate integers in C#, as well as provide more practice with Source Control.
